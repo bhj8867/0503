@@ -32,7 +32,7 @@ public class StudentDemo {
 		Student1 s1=new Student1();//새로 변경된 class이름으로 변경 시켜야 한다.
 		s1.setHakbun(11);
 		s1.setName("홍길동");
-		s1.setAddress("부산시 동래구");
+		s1.setAddress("부산시 수영구");
 		s1.print();
 		
 		System.out.print("\n");
